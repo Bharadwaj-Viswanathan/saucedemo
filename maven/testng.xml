@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" thread-count="5">
+
+	<listeners>
+		<listener class-name="Listeners.Listeners"></listener>
+		<listener class-name="Listeners.Retryanalyzar"></listener>
+	</listeners>
+
+
+	<test name="Run on Firefox">
+		<parameter name="Browser" value="Firefox"></parameter>
+		<classes>
+			<class name="maven.TC_001" />
+			<class name="maven.TC_002" />
+			<class name="maven.TC_003" />
+			<class name="maven.TC_004" />
+			<class name="maven.TC_005" />
+			<class name="maven.TC_006" />
+		</classes>
+	</test> 
+
+</suite> 
+

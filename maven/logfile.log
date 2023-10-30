@@ -1,0 +1,132 @@
+2023-09-21 10:56:08,731 INFO  [Listeners] Completed..... 
+2023-09-25 15:18:09,514 ERROR [Listeners] validate_error_Message_incheckoutinfopageThis test case if failed 
+2023-09-25 15:18:09,684 ERROR [Listeners] Get_Products_name_and_priceThis test case if failed 
+2023-09-25 15:18:12,195 INFO  [Listeners] The TC was started 
+2023-09-25 15:18:12,195 INFO  [Listeners] This TC is skipped 
+2023-09-25 15:18:18,181 INFO  [Listeners] The TC was started 
+2023-09-25 15:18:30,208 INFO  [Listeners] This TC was Passed[TestResult name=validate_error_Message_incheckoutinfopage status=SUCCESS method=TC_006.validate_error_Message_incheckoutinfopage(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_006@77f1baf5] output={null}] 
+2023-09-25 15:18:36,298 INFO  [Listeners] The TC was started 
+2023-09-25 15:19:52,315 ERROR [Listeners] AddcartandverifythecountThis test case if failed 
+2023-09-25 15:19:58,159 INFO  [Listeners] The TC was started 
+2023-09-25 15:20:11,987 INFO  [Listeners] This TC was Passed[TestResult name=Addcartandverifythecount status=SUCCESS method=TC_003.Addcartandverifythecount(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_003@5e5d171f] output={null}] 
+2023-09-25 15:20:17,731 INFO  [Listeners] The TC was started 
+2023-09-25 15:20:19,505 INFO  [Listeners] This TC was Passed[TestResult name=Get_Products_name_and_price status=SUCCESS method=TC_004.Get_Products_name_and_price(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_004@24313fcc] output={null}] 
+2023-09-25 15:20:25,691 INFO  [Listeners] The TC was started 
+2023-09-25 15:20:27,531 INFO  [Listeners] This TC was Passed[TestResult name=Get_Products_name_and_price status=SUCCESS method=TC_004.Get_Products_name_and_price(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_004@24313fcc] output={null}] 
+2023-09-25 15:20:33,736 INFO  [Listeners] The TC was started 
+2023-09-25 15:20:40,929 INFO  [Listeners] This TC was Passed[TestResult name=Get_Products_name_and_price status=SUCCESS method=TC_004.Get_Products_name_and_price(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_004@24313fcc] output={null}] 
+2023-09-25 15:20:46,755 INFO  [Listeners] The TC was started 
+2023-09-25 15:20:53,380 INFO  [Listeners] This TC was Passed[TestResult name=Complete_Checkout_flow status=SUCCESS method=TC_005.Complete_Checkout_flow(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_005@7d20d0b] output={null}] 
+2023-09-25 15:20:59,298 INFO  [Listeners] The TC was started 
+2023-09-25 15:21:15,380 ERROR [Listeners] Complete_Checkout_flowThis test case if failed 
+2023-09-25 15:21:21,129 INFO  [Listeners] The TC was started 
+2023-09-25 15:21:38,033 INFO  [Listeners] This TC was Passed[TestResult name=Complete_Checkout_flow status=SUCCESS method=TC_005.Complete_Checkout_flow(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_005@7d20d0b] output={null}] 
+2023-09-25 15:21:44,800 INFO  [Listeners] The TC was started 
+2023-09-25 15:21:56,623 INFO  [Listeners] This TC was Passed[TestResult name=validate_error_Message_incheckoutinfopage status=SUCCESS method=TC_006.validate_error_Message_incheckoutinfopage(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_006@77f1baf5] output={null}] 
+2023-09-25 15:22:02,451 INFO  [Listeners] The TC was started 
+2023-09-25 15:22:14,292 INFO  [Listeners] This TC was Passed[TestResult name=validate_error_Message_incheckoutinfopage status=SUCCESS method=TC_006.validate_error_Message_incheckoutinfopage(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_006@77f1baf5] output={null}] 
+2023-09-25 15:22:20,203 INFO  [Listeners] The TC was started 
+2023-09-25 15:22:37,191 INFO  [Listeners] This TC was Passed[TestResult name=validate_error_Message_incheckoutinfopage status=SUCCESS method=TC_006.validate_error_Message_incheckoutinfopage(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_006@77f1baf5] output={null}] 
+2023-09-25 15:22:39,140 INFO  [Listeners] Completed..... 
+2023-09-25 15:22:39,334 INFO  [Listeners] Started..... 
+2023-09-25 15:22:49,439 INFO  [Listeners] The TC was started 
+2023-09-25 15:22:50,435 INFO  [Listeners] This TC was Passed[TestResult name=Verify_Url_and_login status=SUCCESS method=TC_001.Verify_Url_and_login(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_001@192c3f1e] output={null}] 
+2023-09-25 15:22:52,961 INFO  [Listeners] The TC was started 
+2023-09-25 15:22:53,761 INFO  [Listeners] This TC was Passed[TestResult name=Verify_Url_and_login status=SUCCESS method=TC_001.Verify_Url_and_login(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_001@192c3f1e] output={null}] 
+2023-09-25 15:22:56,997 INFO  [Listeners] The TC was started 
+2023-09-25 15:23:03,115 INFO  [Listeners] This TC was Passed[TestResult name=Verify_Url_and_login status=SUCCESS method=TC_001.Verify_Url_and_login(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_001@192c3f1e] output={null}] 
+2023-09-25 15:23:05,477 INFO  [Listeners] The TC was started 
+2023-09-25 15:23:05,898 INFO  [Listeners] This TC was Passed[TestResult name=VerifyinvalidLogin status=SUCCESS method=TC_002.VerifyinvalidLogin()[pri:0, instance:maven.TC_002@26b3fd41] output={null}] 
+2023-09-25 15:23:08,754 INFO  [Listeners] The TC was started 
+2023-09-25 15:23:16,435 INFO  [Listeners] This TC was Passed[TestResult name=Addcartandverifythecount status=SUCCESS method=TC_003.Addcartandverifythecount(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_003@7494f96a] output={null}] 
+2023-09-25 15:23:19,011 INFO  [Listeners] The TC was started 
+2023-09-25 15:23:26,327 ERROR [Listeners] AddcartandverifythecountThis test case if failed 
+2023-09-25 15:23:28,835 INFO  [Listeners] The TC was started 
+2023-09-25 15:23:41,286 INFO  [Listeners] This TC was Passed[TestResult name=Addcartandverifythecount status=SUCCESS method=TC_003.Addcartandverifythecount(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_003@7494f96a] output={null}] 
+2023-09-25 15:23:43,743 INFO  [Listeners] The TC was started 
+2023-09-25 15:23:46,030 INFO  [Listeners] This TC was Passed[TestResult name=Get_Products_name_and_price status=SUCCESS method=TC_004.Get_Products_name_and_price(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_004@561b6512] output={null}] 
+2023-09-25 15:23:48,384 INFO  [Listeners] The TC was started 
+2023-09-25 15:23:50,647 INFO  [Listeners] This TC was Passed[TestResult name=Get_Products_name_and_price status=SUCCESS method=TC_004.Get_Products_name_and_price(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_004@561b6512] output={null}] 
+2023-09-25 15:23:53,112 INFO  [Listeners] The TC was started 
+2023-09-25 15:24:00,603 INFO  [Listeners] This TC was Passed[TestResult name=Get_Products_name_and_price status=SUCCESS method=TC_004.Get_Products_name_and_price(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_004@561b6512] output={null}] 
+2023-09-25 15:24:02,928 INFO  [Listeners] The TC was started 
+2023-09-25 15:24:08,489 INFO  [Listeners] This TC was Passed[TestResult name=Complete_Checkout_flow status=SUCCESS method=TC_005.Complete_Checkout_flow(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_005@2e377400] output={null}] 
+2023-09-25 15:24:12,708 INFO  [Listeners] The TC was started 
+2023-09-25 15:24:27,525 ERROR [Listeners] Complete_Checkout_flowThis test case if failed 
+2023-09-25 15:24:30,430 INFO  [Listeners] The TC was started 
+2023-09-25 15:24:45,910 INFO  [Listeners] This TC was Passed[TestResult name=Complete_Checkout_flow status=SUCCESS method=TC_005.Complete_Checkout_flow(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_005@2e377400] output={null}] 
+2023-09-25 15:24:48,599 INFO  [Listeners] The TC was started 
+2023-09-25 15:24:59,074 INFO  [Listeners] This TC was Passed[TestResult name=validate_error_Message_incheckoutinfopage status=SUCCESS method=TC_006.validate_error_Message_incheckoutinfopage(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_006@1757cd72] output={null}] 
+2023-09-25 15:25:02,056 INFO  [Listeners] The TC was started 
+2023-09-25 15:25:12,562 INFO  [Listeners] This TC was Passed[TestResult name=validate_error_Message_incheckoutinfopage status=SUCCESS method=TC_006.validate_error_Message_incheckoutinfopage(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_006@1757cd72] output={null}] 
+2023-09-25 15:25:17,468 INFO  [Listeners] The TC was started 
+2023-09-25 15:25:33,564 INFO  [Listeners] This TC was Passed[TestResult name=validate_error_Message_incheckoutinfopage status=SUCCESS method=TC_006.validate_error_Message_incheckoutinfopage(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_006@1757cd72] output={null}] 
+2023-09-25 15:25:34,031 INFO  [Listeners] Completed..... 
+2023-09-25 15:25:34,066 INFO  [Listeners] Started..... 
+2023-09-25 15:25:40,277 INFO  [Listeners] The TC was started 
+2023-09-25 15:25:40,960 INFO  [Listeners] This TC was Passed[TestResult name=Verify_Url_and_login status=SUCCESS method=TC_001.Verify_Url_and_login(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_001@49e5f737] output={null}] 
+2023-09-25 15:25:44,296 INFO  [Listeners] The TC was started 
+2023-09-25 15:25:45,093 INFO  [Listeners] This TC was Passed[TestResult name=Verify_Url_and_login status=SUCCESS method=TC_001.Verify_Url_and_login(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_001@49e5f737] output={null}] 
+2023-09-25 15:25:48,038 INFO  [Listeners] The TC was started 
+2023-09-25 15:25:53,831 INFO  [Listeners] This TC was Passed[TestResult name=Verify_Url_and_login status=SUCCESS method=TC_001.Verify_Url_and_login(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_001@49e5f737] output={null}] 
+2023-09-25 15:25:57,133 INFO  [Listeners] The TC was started 
+2023-09-25 15:25:57,524 INFO  [Listeners] This TC was Passed[TestResult name=VerifyinvalidLogin status=SUCCESS method=TC_002.VerifyinvalidLogin()[pri:0, instance:maven.TC_002@5c671d7f] output={null}] 
+2023-09-25 15:26:00,106 INFO  [Listeners] The TC was started 
+2023-09-25 15:26:07,707 INFO  [Listeners] This TC was Passed[TestResult name=Addcartandverifythecount status=SUCCESS method=TC_003.Addcartandverifythecount(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_003@757277dc] output={null}] 
+2023-09-25 15:26:09,882 INFO  [Listeners] The TC was started 
+2023-09-25 15:26:17,425 ERROR [Listeners] AddcartandverifythecountThis test case if failed 
+2023-09-25 15:26:20,360 INFO  [Listeners] The TC was started 
+2023-09-25 15:26:32,792 INFO  [Listeners] This TC was Passed[TestResult name=Addcartandverifythecount status=SUCCESS method=TC_003.Addcartandverifythecount(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_003@757277dc] output={null}] 
+2023-09-25 15:26:35,876 INFO  [Listeners] The TC was started 
+2023-09-25 15:26:38,157 INFO  [Listeners] This TC was Passed[TestResult name=Get_Products_name_and_price status=SUCCESS method=TC_004.Get_Products_name_and_price(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_004@687e99d8] output={null}] 
+2023-09-25 15:26:40,290 INFO  [Listeners] The TC was started 
+2023-09-25 15:26:42,441 INFO  [Listeners] This TC was Passed[TestResult name=Get_Products_name_and_price status=SUCCESS method=TC_004.Get_Products_name_and_price(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_004@687e99d8] output={null}] 
+2023-09-25 15:26:45,718 INFO  [Listeners] The TC was started 
+2023-09-25 15:26:52,895 INFO  [Listeners] This TC was Passed[TestResult name=Get_Products_name_and_price status=SUCCESS method=TC_004.Get_Products_name_and_price(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_004@687e99d8] output={null}] 
+2023-09-25 15:26:55,666 INFO  [Listeners] The TC was started 
+2023-09-25 15:27:00,661 INFO  [Listeners] This TC was Passed[TestResult name=Complete_Checkout_flow status=SUCCESS method=TC_005.Complete_Checkout_flow(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_005@e4487af] output={null}] 
+2023-09-25 15:27:02,876 INFO  [Listeners] The TC was started 
+2023-09-25 15:27:17,664 ERROR [Listeners] Complete_Checkout_flowThis test case if failed 
+2023-09-25 15:27:20,012 INFO  [Listeners] The TC was started 
+2023-09-25 15:27:34,996 INFO  [Listeners] This TC was Passed[TestResult name=Complete_Checkout_flow status=SUCCESS method=TC_005.Complete_Checkout_flow(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_005@e4487af] output={null}] 
+2023-09-25 15:27:38,072 INFO  [Listeners] The TC was started 
+2023-09-25 15:27:48,389 INFO  [Listeners] This TC was Passed[TestResult name=validate_error_Message_incheckoutinfopage status=SUCCESS method=TC_006.validate_error_Message_incheckoutinfopage(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_006@6aaceffd] output={null}] 
+2023-09-25 15:27:50,582 INFO  [Listeners] The TC was started 
+2023-09-25 15:28:00,948 INFO  [Listeners] This TC was Passed[TestResult name=validate_error_Message_incheckoutinfopage status=SUCCESS method=TC_006.validate_error_Message_incheckoutinfopage(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_006@6aaceffd] output={null}] 
+2023-09-25 15:28:03,318 INFO  [Listeners] The TC was started 
+2023-09-25 15:28:18,657 INFO  [Listeners] This TC was Passed[TestResult name=validate_error_Message_incheckoutinfopage status=SUCCESS method=TC_006.validate_error_Message_incheckoutinfopage(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_006@6aaceffd] output={null}] 
+2023-09-25 15:28:18,840 INFO  [Listeners] Completed..... 
+2023-09-25 15:28:18,868 INFO  [Listeners] Started..... 
+2023-09-25 15:28:25,283 INFO  [Listeners] The TC was started 
+2023-09-25 15:28:26,554 INFO  [Listeners] This TC was Passed[TestResult name=Verify_Url_and_login status=SUCCESS method=TC_001.Verify_Url_and_login(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_001@37271612] output={null}] 
+2023-09-25 15:28:30,690 INFO  [Listeners] The TC was started 
+2023-09-25 15:28:31,729 INFO  [Listeners] This TC was Passed[TestResult name=Verify_Url_and_login status=SUCCESS method=TC_001.Verify_Url_and_login(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_001@37271612] output={null}] 
+2023-09-25 15:28:36,367 INFO  [Listeners] The TC was started 
+2023-09-25 15:28:42,377 INFO  [Listeners] This TC was Passed[TestResult name=Verify_Url_and_login status=SUCCESS method=TC_001.Verify_Url_and_login(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_001@37271612] output={null}] 
+2023-09-25 15:28:46,358 INFO  [Listeners] The TC was started 
+2023-09-25 15:28:46,858 INFO  [Listeners] This TC was Passed[TestResult name=VerifyinvalidLogin status=SUCCESS method=TC_002.VerifyinvalidLogin()[pri:0, instance:maven.TC_002@ed7f8b4] output={null}] 
+2023-09-25 15:28:50,853 INFO  [Listeners] The TC was started 
+2023-09-25 15:28:58,374 INFO  [Listeners] This TC was Passed[TestResult name=Addcartandverifythecount status=SUCCESS method=TC_003.Addcartandverifythecount(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_003@4c309d4d] output={null}] 
+2023-09-25 15:29:02,589 INFO  [Listeners] The TC was started 
+2023-09-25 15:29:10,328 ERROR [Listeners] AddcartandverifythecountThis test case if failed 
+2023-09-25 15:29:14,704 INFO  [Listeners] The TC was started 
+2023-09-25 15:29:27,436 INFO  [Listeners] This TC was Passed[TestResult name=Addcartandverifythecount status=SUCCESS method=TC_003.Addcartandverifythecount(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_003@4c309d4d] output={null}] 
+2023-09-25 15:29:31,595 INFO  [Listeners] The TC was started 
+2023-09-25 15:29:34,241 INFO  [Listeners] This TC was Passed[TestResult name=Get_Products_name_and_price status=SUCCESS method=TC_004.Get_Products_name_and_price(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_004@38102d01] output={null}] 
+2023-09-25 15:29:38,215 INFO  [Listeners] The TC was started 
+2023-09-25 15:29:40,553 INFO  [Listeners] This TC was Passed[TestResult name=Get_Products_name_and_price status=SUCCESS method=TC_004.Get_Products_name_and_price(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_004@38102d01] output={null}] 
+2023-09-25 15:29:44,284 INFO  [Listeners] The TC was started 
+2023-09-25 15:29:51,954 INFO  [Listeners] This TC was Passed[TestResult name=Get_Products_name_and_price status=SUCCESS method=TC_004.Get_Products_name_and_price(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_004@38102d01] output={null}] 
+2023-09-25 15:29:56,055 INFO  [Listeners] The TC was started 
+2023-09-25 15:30:01,258 INFO  [Listeners] This TC was Passed[TestResult name=Complete_Checkout_flow status=SUCCESS method=TC_005.Complete_Checkout_flow(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_005@37883b97] output={null}] 
+2023-09-25 15:30:07,492 INFO  [Listeners] The TC was started 
+2023-09-25 15:30:22,393 ERROR [Listeners] Complete_Checkout_flowThis test case if failed 
+2023-09-25 15:30:26,493 INFO  [Listeners] The TC was started 
+2023-09-25 15:30:41,519 INFO  [Listeners] This TC was Passed[TestResult name=Complete_Checkout_flow status=SUCCESS method=TC_005.Complete_Checkout_flow(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_005@37883b97] output={null}] 
+2023-09-25 15:30:45,993 INFO  [Listeners] The TC was started 
+2023-09-25 15:30:56,459 INFO  [Listeners] This TC was Passed[TestResult name=validate_error_Message_incheckoutinfopage status=SUCCESS method=TC_006.validate_error_Message_incheckoutinfopage(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_006@6ab778a] output={null}] 
+2023-09-25 15:31:00,236 INFO  [Listeners] The TC was started 
+2023-09-25 15:31:10,904 INFO  [Listeners] This TC was Passed[TestResult name=validate_error_Message_incheckoutinfopage status=SUCCESS method=TC_006.validate_error_Message_incheckoutinfopage(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_006@6ab778a] output={null}] 
+2023-09-25 15:31:14,950 INFO  [Listeners] The TC was started 
+2023-09-25 15:31:30,501 INFO  [Listeners] This TC was Passed[TestResult name=validate_error_Message_incheckoutinfopage status=SUCCESS method=TC_006.validate_error_Message_incheckoutinfopage(java.lang.String,java.lang.String)[pri:0, instance:maven.TC_006@6ab778a] output={null}] 
+2023-09-25 15:31:31,036 INFO  [Listeners] Completed..... 
